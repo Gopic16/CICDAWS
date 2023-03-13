@@ -1,6 +1,6 @@
 [
     {
-      "name": "gopicont",
-      "imageUri": "085086094200.dkr.ecr.ap-southeast-1.amazonaws.com/ecr_rep:latest"
+      "name":"gopicont",
+      "imageUri":"085086094200.dkr.ecr.ap-southeast-1.amazonaws.com/ecr_rep:latest"
     }
   ]
